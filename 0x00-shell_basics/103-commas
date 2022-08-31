@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --numeric-uid-gid --group-directories-first --file-type -m -a
+ls --sort=WORD --group-directories-first --file-type -m -a
