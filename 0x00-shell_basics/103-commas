@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --group-directories-first --file-type -m -a -n
+ls --group-directories-first --file-type -n -m -a
