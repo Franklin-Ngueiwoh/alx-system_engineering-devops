@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --sort=WORD --group-directories-first --file-type -m -a
+ls --group-directories-first --file-type -m -a
