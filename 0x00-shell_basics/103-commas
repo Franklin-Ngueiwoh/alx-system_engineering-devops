@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --numeric-uid-gid --group-directories-first -m -a
+ls --numeric-uid-gid --group-directories-first -F -m -a
