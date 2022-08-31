@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --group-directories-first --numeric -m -a
+ls --file-type -am
